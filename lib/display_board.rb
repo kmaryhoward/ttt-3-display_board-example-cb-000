@@ -1,4 +1,4 @@
-cell = "   |   |   " 
+cell = "   |   |   "
 line = "-----------"
 def display_board (cell, line)
   2.times { puts cell, line }
