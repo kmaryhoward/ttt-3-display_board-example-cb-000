@@ -1,5 +1,5 @@
 def display_board
-  cell = "   |   |   " 
+  cell = "   |   |   "
   line = "-----------"
   2.times { puts cell, line }
   puts cell
